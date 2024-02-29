@@ -10,3 +10,4 @@ This archive is my all projects on https://www.freecodecamp.org
 - Registration Form App (65/65)
 - Survey Form App (0/1)
 - Rothko Painting App (45/45)
+- Photo Gallery App (24/24)
