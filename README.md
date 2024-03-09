@@ -12,4 +12,4 @@ This archive is my all projects on https://www.freecodecamp.org
 - Rothko Painting App (45/45)
 - Photo Gallery App (24/24)
 - Nutrition Label App (67/67)
-- Quiz App (13/68)
+- Quiz App (27/68)
