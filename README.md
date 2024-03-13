@@ -13,3 +13,5 @@ This archive is my all projects on https://www.freecodecamp.org
 - Photo Gallery App (24/24)
 - Nutrition Label App (67/67)
 - Quiz App (68/68)
+- Tribute Page App (0/1)
+- Balance Sheet App (18/66)
