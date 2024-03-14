@@ -14,4 +14,4 @@ This archive is my all projects on https://www.freecodecamp.org
 - Nutrition Label App (67/67)
 - Quiz App (68/68)
 - Tribute Page App (0/1)
-- Balance Sheet App (18/66)
+- Balance Sheet App (26/66)
