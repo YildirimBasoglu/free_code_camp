@@ -15,3 +15,4 @@ This archive is my all projects on https://www.freecodecamp.org
 - Quiz App (68/68)
 - Tribute Page App (0/1)
 - Balance Sheet App (66/66)
+- Cat Painting App (10/82)
