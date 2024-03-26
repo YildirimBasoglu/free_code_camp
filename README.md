@@ -16,4 +16,4 @@ This archive is my all projects on https://www.freecodecamp.org
 - Tribute Page App (0/1)
 - Balance Sheet App (66/66)
 - Cat Painting App (82/82)
-- Piano App (1/33)
+- Piano App (2/33)
